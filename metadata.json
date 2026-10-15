@@ -1,0 +1,6 @@
+{
+  "name": "Evening Hours Tea and Coffee",
+  "description": "Official website for Evening Hours Tea and Coffee in Okara, Pakistan. Evening cafe offering hot teas, coffee, cold beverages, dine-in and takeout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

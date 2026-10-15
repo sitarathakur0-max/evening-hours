@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    scroll-behavior: smooth;
+    color: #242321;
+    background-color: #F7F0E5;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+}
+
+@layer utilities {
+  .bg-espresso {
+    background-color: #35231F;
+  }
+  .bg-coffee {
+    background-color: #594037;
+  }
+  .bg-cream {
+    background-color: #F7F0E5;
+  }
+  .bg-amber-accent {
+    background-color: #D7A45B;
+  }
+  .bg-charcoal {
+    background-color: #242321;
+  }
+  .text-espresso {
+    color: #35231F;
+  }
+  .text-coffee {
+    color: #594037;
+  }
+  .text-cream {
+    color: #F7F0E5;
+  }
+  .text-amber-accent {
+    color: #D7A45B;
+  }
+  .text-charcoal {
+    color: #242321;
+  }
+  .border-espresso {
+    border-color: #35231F;
+  }
+  .border-coffee {
+    border-color: #594037;
+  }
+  .border-amber-accent {
+    border-color: #D7A45B;
+  }
+}
