@@ -1,3 +1,4 @@
+
 export interface CafeImage {
   src: string;
   alt: string;
